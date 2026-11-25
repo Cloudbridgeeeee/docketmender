@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for DocketMender.
 - Industry: LegalTech, Natural Language Processing, Enterprise Software
 - Founder: Osas Eghosa (Founder & CEO)
 - Co-founder: Blessing Nwosu (Co-founder & CTO)
-- Contact: osas@docketmender.top
+- Contact: osas@docketmender.space
 - Business model: Per-user subscriptions
 
 ## Stack

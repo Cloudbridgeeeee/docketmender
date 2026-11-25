@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://docketmender.top/sitemap.xml
+Sitemap: https://docketmender.space/sitemap.xml
