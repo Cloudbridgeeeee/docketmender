@@ -1,0 +1,16 @@
+{
+  "name": "DocketMender",
+  "short_name": "DocketMender",
+  "description": "AI document organization software that helps law firms classify case files, extract administrative deadlines and prepare case inventories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
